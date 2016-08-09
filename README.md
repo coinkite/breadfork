@@ -2,13 +2,12 @@
 ----------------------------------
 
 [![download](/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)]
-(https://itunes.apple.com/app/breadwallet/id885251393)
+(https://itunes.apple.com/app/#)
 
 #####bitcoin done right
 
 the simplest and most secure bitcoin wallet on any platform 
 
-![screenshot1](/images/screenshot1.jpg)
 
 #####the first standalone iOS bitcoin wallet:
 
@@ -35,7 +34,7 @@ broken.  Because breadwallet is
 your balance and transaction history can be recovered from just your backup
 phrase.
 
-![screenshot2](/images/screenshot2.jpg)
+
 
 #####features:
 
